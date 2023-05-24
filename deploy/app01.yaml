@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: sst-registry:8082/app03:v1
+        image: sst-registry:8082/app01:v1
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
