@@ -1,0 +1,15 @@
+/var/lib/jenkins/workspace/app01/bin/Release/net7.0/app01
+/var/lib/jenkins/workspace/app01/bin/Release/net7.0/app01.deps.json
+/var/lib/jenkins/workspace/app01/bin/Release/net7.0/app01.runtimeconfig.json
+/var/lib/jenkins/workspace/app01/bin/Release/net7.0/app01.dll
+/var/lib/jenkins/workspace/app01/bin/Release/net7.0/app01.pdb
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.csproj.AssemblyReference.cache
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.GeneratedMSBuildEditorConfig.editorconfig
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.AssemblyInfoInputs.cache
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.AssemblyInfo.cs
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.csproj.CoreCompileInputs.cache
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.dll
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/refint/app01.dll
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.pdb
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/app01.genruntimeconfig.cache
+/var/lib/jenkins/workspace/app01/obj/Release/net7.0/ref/app01.dll

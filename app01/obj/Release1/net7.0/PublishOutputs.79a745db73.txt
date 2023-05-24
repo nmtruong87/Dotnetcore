@@ -1,0 +1,5 @@
+/var/lib/jenkins/workspace/app01/bin/Release1/net7.0/publish/app01
+/var/lib/jenkins/workspace/app01/bin/Release1/net7.0/publish/app01.dll
+/var/lib/jenkins/workspace/app01/bin/Release1/net7.0/publish/app01.deps.json
+/var/lib/jenkins/workspace/app01/bin/Release1/net7.0/publish/app01.runtimeconfig.json
+/var/lib/jenkins/workspace/app01/bin/Release1/net7.0/publish/app01.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj": {}
+    "/var/lib/jenkins/workspace/app01/app01.csproj": {}
   },
   "projects": {
-    "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj": {
+    "/var/lib/jenkins/workspace/app01/app01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj",
+        "projectUniqueName": "/var/lib/jenkins/workspace/app01/app01.csproj",
         "projectName": "app01",
-        "projectPath": "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj",
+        "projectPath": "/var/lib/jenkins/workspace/app01/app01.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/var/lib/jenkins/workspace/DotnetCore/app01/obj/",
+        "outputPath": "/var/lib/jenkins/workspace/app01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
@@ -49,9 +49,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
