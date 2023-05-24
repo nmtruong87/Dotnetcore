@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7cNOmLfFMc0zrFbYiUSdzYhS/cJ2OFBl1j914eq75v5xUOmvqjcfjJi/qUXggYM4Q3bA14RnVpuBNk3XyPMVTA==",
+  "dgSpecHash": "jbXUYblZLgPAFhFMsXZs+c8RATq+tV9Nra/lH6B6MrZvhRl6v+DsM40bLyu+Tp0BTZJ2o0wy5fkvOSMmEYsfEg==",
   "success": true,
-  "projectFilePath": "/var/lib/jenkins/workspace/app01/app01.csproj",
+  "projectFilePath": "/home/truongnm/dotnetcore/App03/App03.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
