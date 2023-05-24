@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app
+  namespace: apps
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: app
+  template:
+    metadata:
+      labels:
+        app: app
+    spec:
+      containers:
+      - name: app
+        image: sst-registry:8082/app01:v2
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 5000
+          name: http
+        resources:
+          requests:
+            memory: "64Mi"
+            cpu: "64m"
+          limits:
+            memory: "128Mi"
+            cpu: "128m"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: app
+  namespace: apps
+spec:
+  type: LoadBalancer
+  externalIPs:
+  - 10.105.34.130
+  ports:
+  - port: 5000
+    targetPort: 5000
+    name: http
+    protocol: TCP
+  selector:
+    app: app
+
