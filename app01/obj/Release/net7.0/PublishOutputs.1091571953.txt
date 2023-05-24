@@ -1,7 +1,0 @@
-/home/truongnm/dotnetcore/App03/bin/Release/net7.0/publish/App03
-/home/truongnm/dotnetcore/App03/bin/Release/net7.0/publish/appsettings.Development.json
-/home/truongnm/dotnetcore/App03/bin/Release/net7.0/publish/appsettings.json
-/home/truongnm/dotnetcore/App03/bin/Release/net7.0/publish/App03.dll
-/home/truongnm/dotnetcore/App03/bin/Release/net7.0/publish/App03.deps.json
-/home/truongnm/dotnetcore/App03/bin/Release/net7.0/publish/App03.runtimeconfig.json
-/home/truongnm/dotnetcore/App03/bin/Release/net7.0/publish/App03.pdb

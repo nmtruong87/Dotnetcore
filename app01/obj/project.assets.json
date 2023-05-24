@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/var/lib/jenkins/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/truongnm/dotnetcore/App03/App03.csproj",
-      "projectName": "App03",
-      "projectPath": "/home/truongnm/dotnetcore/App03/App03.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/truongnm/dotnetcore/App03/obj/",
+      "projectUniqueName": "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj",
+      "projectName": "app01",
+      "projectPath": "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj",
+      "packagesPath": "/var/lib/jenkins/.nuget/packages/",
+      "outputPath": "/var/lib/jenkins/workspace/DotnetCore/app01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/var/lib/jenkins/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

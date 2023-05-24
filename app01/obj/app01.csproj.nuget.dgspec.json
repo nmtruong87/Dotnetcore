@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/truongnm/dotnetcore/App03/App03.csproj": {}
+    "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj": {}
   },
   "projects": {
-    "/home/truongnm/dotnetcore/App03/App03.csproj": {
+    "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/truongnm/dotnetcore/App03/App03.csproj",
-        "projectName": "App03",
-        "projectPath": "/home/truongnm/dotnetcore/App03/App03.csproj",
+        "projectUniqueName": "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj",
+        "projectName": "app01",
+        "projectPath": "/var/lib/jenkins/workspace/DotnetCore/app01/app01.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/truongnm/dotnetcore/App03/obj/",
+        "outputPath": "/var/lib/jenkins/workspace/DotnetCore/app01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
