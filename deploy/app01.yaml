@@ -35,7 +35,6 @@ metadata:
   name: app
   namespace: apps
 spec:
-  type: LoadBalancer
   externalIPs:
   - 10.105.34.130
   ports:
