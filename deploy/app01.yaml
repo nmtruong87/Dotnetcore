@@ -27,9 +27,6 @@ spec:
           limits:
             memory: "128Mi"
             cpu: "128m"
-        env:
-          - name: cluster.initial_master_nodes
-            value: "app-1,app-2,app-3"
 ---
 apiVersion: v1
 kind: Service
